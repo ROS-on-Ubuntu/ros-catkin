@@ -1,3 +1,9 @@
+ros-noetic-catkin (0.8.10-1jammy) focal; urgency=low
+
+  * Port to Ubuntu 22.04 Jammy
+
+ -- Elysia <c.elysia@foxmail.com>  Mon, 12 Aug 2024 14:39:00 +0800
+
 ros-noetic-catkin (0.8.10-1focal) focal; urgency=high
 
   * Fix problem with Googletest's LIBRARY_OUTPUT_DIRECTORY (#1135 <https://github.com/ros/catkin/issues/1135>)
